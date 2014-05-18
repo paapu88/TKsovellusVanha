@@ -1,0 +1,14 @@
+mokaukon@users:~$ wanna-postgres
+
+This script can create a local postgres database account and
+empty postgres database for you. Do you want to create a new 
+postgres user mokaukon and database mokaukon now (y/n)? y
+mokaukon
+Creating user and database for login 'mokaukon' (uid 54941)
+New postgres user 'mokaukon' and database 'mokaukon' have been created for you.
+You can connect it directly from command line with command 'psql'.
+
+Postgres password reset to '3584e6c56beb1f9d'.
+Password also saved to file '/home/mokaukon/.psql_password'.
+mokaukon@users:~$ 
+
